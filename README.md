@@ -15,17 +15,17 @@ This project explores the relationships between lifestyle factors (e.g., physica
 
 ## Analysis Conducted
 
-### 1. Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Summary statistics (mean, median, std, etc.)
 - Distribution plots (age, weight, physical activity)
 - Obesity level frequency and gender breakdown
 
-### 2. Hypothesis Testing
+### Hypothesis Testing
 - Smokers vs. non-smokers BMI
 - Physical activity vs. BMI
 
 
-### 3. Correlation Analysis
+### Correlation Analysis
 - Pearson: Age vs. BMI
 - Spearman: Exercise vs. Obesity Rank
 - Point-Biserial: Healthy Weight vs. FCVC
