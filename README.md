@@ -7,7 +7,7 @@ This project explores the relationships between lifestyle factors (e.g., physica
 ## 📊 Dataset
 
 - **Name**: Estimation of Obesity Levels based on Eating Habits and Physical Condition  
-- **Source**: [UCI Machine Learning Repository]((https://doi.org/10.24432/C5H31Z))  
+- **Source**:[UCI Machine Learning Repository - DOI: 10.24432/C5H31Z](https://doi.org/10.24432/C5H31Z)
 - **Format**: CSV (2,111 records, 17 features)  
 - **Countries**: Mexico, Peru, Colombia  
 
