@@ -23,7 +23,7 @@ This project explores the relationships between lifestyle factors (e.g., physica
 ### 2. Hypothesis Testing
 - Smokers vs. non-smokers BMI
 - Physical activity vs. BMI
-- Alcohol consumption vs. obesity level
+
 
 ### 3. Correlation Analysis
 - Pearson: Age vs. BMI
